@@ -62,4 +62,4 @@ This suggests a potential issue with the external API's token validation, such a
 
 *   **GitHub Repository:** `https://github.com/anantgupta001/BajajFinServ.git`
 *   **JAR File Location in Repo:** `target/BajaFinServApp-0.0.1-SNAPSHOT.jar`
-*   **Publicly Downloadable GitHub Raw Link for JAR:** (You will need to generate this from your GitHub repo after pushing all changes, as per previous instructions.)
+*   **Publicly Downloadable GitHub Raw Link for JAR:** https://raw.githubusercontent.com/anantgupta001/BajajFinServ/master/target/BajaFinServApp-0.0.1-SNAPSHOT.jar
